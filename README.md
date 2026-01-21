@@ -45,3 +45,16 @@ This repository contains a collection of lab practicals from the Deep Learning c
 
 ## 📌 Objective
 To solidify core deep learning concepts through structured practicals, enabling hands-on experience with real-world datasets and neural network modeling techniques.
+
+---
+
+## 🤝 Contributing
+
+Feel free to submit issues, fork the repository, and create pull requests for any improvements.
+
+---
+
+## 📧 Support
+
+For issues or questions, please open an issue in the repository or contact me through my socials.
+
